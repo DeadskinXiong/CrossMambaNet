@@ -289,7 +289,7 @@ pip install -r requirements.txt
 Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/CrossMambaNet.git
+git clone https://github.com/DeadskinXiong/CrossMambaNet.git
 cd CrossMambaNet
 ```
 
