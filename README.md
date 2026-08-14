@@ -1,5 +1,5 @@
 # CrossMambaNet
-
+[![DOI](https://zenodo.org/badge/1333951901.svg)](https://doi.org/10.5281/zenodo.21934082)
 ## Complementary Context Learning with Bidirectional Dual-View Mamba for Self-Supervised Network Traffic Classification
 
 CrossMambaNet is a self-supervised network traffic classification framework based on dual-view masked representation learning and bidirectional Mamba state-space modeling.
