@@ -490,7 +490,7 @@ TDZKSS202546
 A permanent archival version of this repository will be released through Zenodo.
 
 ```text
-Zenodo DOI: ZENODO_DOI
+Zenodo DOI: 10.5281/zenodo.21934083
 ```
 
 The DOI will be updated after the first archived software release.
